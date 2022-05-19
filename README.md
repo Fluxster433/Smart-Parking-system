@@ -12,10 +12,17 @@ Ultrasonic sensors
 Blynk App
 
 # Working
-On arrival of a vehicle, ultrasonic sensor detects it and servo mote which is the gate opens up.
-when the vehicle parks at the desired parking spot, IR sensor detects it and shows it detects the presence of the object by glowing a led.
+On arrival of a vehicle, ultrasonic sensor detects it
+and servo mote which is the gate opens up.
+when the vehicle parks at the desired parking spot, 
+IR sensor detects it and shows it detects the presence of the object by glowing a led.
 This intern is reflected in the Blynk app.
 It shows which spots are empty or filled.
+
+# Precautions
+make sure to give enough voltage supply to all parts.
+because over loading the arduino will result in malfunction.
+
 
 
 
